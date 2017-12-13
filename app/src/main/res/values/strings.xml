@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Memeholic</string>
+    <string name="title_home">Home</string>
+    <string name="title_my_memes">My Memes</string>
+    <string name="title_my_Profile">My Profile</string>
+    <string name="title_activity_generate_meme">GenerateMeme</string>
+    <string name="title_crop">Crop Image</string>
+    <string name="title_add_text">Add text</string>
+    <string name="title_undo">Undo</string>
+    <string name="title_add_image">Add Image</string>
+    <string name="title_save">Save</string>
+    <string name="title_delete">Delete</string>
+</resources>

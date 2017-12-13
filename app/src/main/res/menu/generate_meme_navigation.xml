@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/generate_meme_nav_add_image"
+    android:title="@string/title_add_image"
+    android:icon="@drawable/add_image"/>
+    <item
+        android:id="@+id/generate_meme_nav_crop"
+        android:title="@string/title_crop"
+        android:icon="@drawable/crop_rotate"/>
+    <item
+        android:id="@+id/generate_meme_add_text"
+        android:title="@string/title_add_text"
+        android:icon="@drawable/add_text"/>
+</menu>
